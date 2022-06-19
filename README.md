@@ -20,6 +20,7 @@ npm run build
 
 ```
 just do it
+go go go
 ```
 
 ### Customize configuration
